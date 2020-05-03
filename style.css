@@ -1,0 +1,25 @@
+.divBorder {}
+
+.divLeft {
+    border: solid 5px black;
+    width: 24%;
+    float: left;
+    margin: auto;
+    height: 280px;
+}
+
+.divRight {
+    border: solid 5px red;
+    width: 24%;
+    float: left;
+    margin: auto;
+    height: 280px;
+}
+
+.divCenter {
+    border: solid 5px green;
+    width: 50%;
+    float: left;
+    margin: auto;
+    height: 280px;
+}
